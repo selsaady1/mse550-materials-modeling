@@ -4,6 +4,8 @@
 
 ![Python](https://img.shields.io/badge/Python-0a7?style=flat-square) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-0a7?style=flat-square) ![NumPy](https://img.shields.io/badge/NumPy-0a7?style=flat-square) ![SciPy (ndimage)](https://img.shields.io/badge/SciPy_%28ndimage%29-0a7?style=flat-square) ![Matplotlib](https://img.shields.io/badge/Matplotlib-0a7?style=flat-square) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-0a7?style=flat-square) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-0a7?style=flat-square) 
 
+![Materials Modeling](images/fig1.png)
+
 ### 🌐 Live project page → **https://selsaady1.github.io/mse550-materials-modeling/**
 
 ## Overview
@@ -28,9 +30,16 @@ The project explains SEM fundamentals (elastic/inelastic electron scattering, ch
 - Microsoft PowerPoint
 - Microsoft Word
 
+## Gallery
+![figure](images/fig2.png)
+![figure](images/fig3.png)
+![figure](images/fig4.png)
+![figure](images/fig5.png)
+
 ## Repository Structure
 ```
 .gitignore
+.nojekyll
 LICENSE
 README.md
 docs/MSE 550 Term Paper.pdf
@@ -39,7 +48,14 @@ docs/MSE550_Presentation_Elsaady.pptx.pdf
 docs/MSE550_Synopsis.docx
 docs/PAPERIDEA.pdf
 docs/m550-good-slides-example.pdf
+images/fig1.png
+images/fig2.png
+images/fig3.png
+images/fig4.png
+images/fig5.png
+images/fig6.png
 images/preview.png
+index.html
 src/MSE550.ipynb
 ```
 
